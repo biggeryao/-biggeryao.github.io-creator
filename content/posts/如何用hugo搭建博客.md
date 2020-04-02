@@ -24,13 +24,19 @@ draft: false
 仓库名为 你的github用户名.github.io
 ### 四、又一次创建本地仓库
 1、进入public
+
 2、git init
+
 3、git add
+
 4、git commit
 ### 五、关联远程仓库
 1、git remote add origin
+
 git@github.com:xxxx/x.github.io.git
+
 2、必须是git开头
+
 3、git push
 ### 六、打开x.github.io的GitHub Page
  
